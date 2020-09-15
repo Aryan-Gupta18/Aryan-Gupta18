@@ -1,5 +1,5 @@
+# [Aryan Gupta](https://github.com/aryanGupta-pro)
 
-#**[Aryan Gupta]**(https://github.com/aryanGupta-pro)
 [![Linkedin](https://user-images.githubusercontent.com/70915083/93156056-f9cbfc80-f724-11ea-9780-ea8f8a5c5eef.png)](https://www.linkedin.com/in/aryan-gupta-b61556159/)  [![Gmail link](extras/logo.gif)](https://mail.google.com/mail/u/0/?tab=rm1#inbox)[![twitter link](extras/logo.gif)](https://twitter.com/Twitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 <!--
  I am Aryan Gupta. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Flask. I am always curious to learn something new and innovative.
